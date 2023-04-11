@@ -21,9 +21,10 @@ HTML, CSS, CSS Flexbox, Atomic Design, BEM (Block, Element, Modifier), Responsiv
 ## Resultado Obtido ao acessar pelo Computador:
 </br>
 
-![image]()
+![image](https://user-images.githubusercontent.com/123910027/231161374-090970f8-f199-49b0-b57f-5b79d029ebe0.jpeg)
+
 
 ## Mobile: 
 </br>
 
-<img width="400px" src="">
+<img width="400px" src="https://user-images.githubusercontent.com/123910027/231161262-48cf7bdf-8093-482d-9b0c-a8e233e9945e.jpeg">
